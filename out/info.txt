@@ -1,0 +1,16 @@
+Original size
+=============
+pixels horz: 5028px
+pixels vert: 3543px
+resolution:  300dpi
+width:       42.57cm
+height:      30.00cm
+
+
+New size
+=============
+pixels horz: 4606px
+pixels vert: 3394px
+resolution:  300dpi
+width:       39.0cm
+height:      28.74cm
